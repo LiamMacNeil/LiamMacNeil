@@ -1,6 +1,6 @@
 Ur beatha an clachan!
 
-I'm @LiamMacneil, within you will find some data-driven projects in biological and geosciences. Biological oceanography, microbial ecology, species distribution models and some machine learning tools are all considered.  
+I'm @LiamMacneil, within you will find some data-driven projects in the biological and geosciences. Biological oceanography, microbial ecology, species distribution models and some machine learning tools are all considered.  
 
 
 
