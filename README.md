@@ -1,6 +1,6 @@
 Ur beatha an clachan!
 
-Within you will find some data-oriented projects in the biological and geosciences. Biological oceanography, microbial ecology, species distribution models and some machine learning tools are considered.  
+Within you will find some data-oriented projects in the biological and environmental sciences. Biological oceanography, microbial ecology, species distribution models and some machine learning tools are all considered.  
 
 
 
